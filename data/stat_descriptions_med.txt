@@ -1,0 +1,83 @@
+description
+	1 base_physical_damage_reduction_rating
+	1
+		# "%1$+d to Armour"
+
+description
+	2 local_minimum_added_physical_damage local_maximum_added_physical_damage
+	3
+		# 0 "Adds %1% minimum Physical Damage"
+		0 # "Adds %2% maximum Physical Damage"
+		# # "Adds %1%-%2% Physical Damage"
+
+description
+	1 global_hit_causes_monster_flee_%
+	1
+		1|# "%d%% Chance to Cause Monsters to Flee"
+
+description
+	1 unique_facebreaker_unarmed_physical_damage_+%_final
+	2
+		1|#	"%1%%% more Unarmed Physical Damage"
+		#|-1 "%1%%% less Unarmed Physical Damage" negate 1
+
+description
+	2 attack_minimum_added_lightning_damage_with_wand attack_maximum_added_lightning_damage_with_wand
+	3
+		# 0 "Adds %1% minimum Lightning Damage to attacks with Wands"
+		0 # "Adds %2% maximum Lightning Damage to attacks with Wands"
+		# # "Adds %1%-%2% Lightning Damage to attacks with Wands"
+
+description
+	1 evasion_and_physical_damage_reduction_rating_+%
+	2
+		1|# "%1%%% increased Evasion Rating and Armour"
+		#|-1 "%1%%% reduced Evasion Rating and Armour" negate 1
+
+description
+	1 energy_shield_recharge_rate_per_minute_%
+	2
+		1|# "%1%%% of Energy Shield Recharged per second" per_minute_to_per_second 1
+		#|-1 "%1%%% of Energy Shield Lost per minute" negate 1
+
+description
+	1 base_arrow_pierce_%
+	3
+		100|# "Arrows always Pierce"
+		1|99 "%1%%% chance of Arrows Piercing"
+		#|-1 "%1%%% chance of Arrows Piercing" negate 1
+
+description
+	1 fishing_hook_type
+	4
+		1 "Karui Stone Hook"
+		2 "Ezomite Shell Hook"
+		3 "Vaal Soul Hook"
+		4 "Eternal Iron Hook"
+
+description
+	1 evasion_and_physical_damage_reduction_rating_+%
+	2
+		1|# "%1%%% increased Evasion Rating and Armour"
+		#|-1 "%1%%% reduced Evasion Rating and Armour" negate 1
+
+description
+	1 energy_shield_recharge_rate_per_minute_%
+	2
+		1|# "%1%%% of Energy Shield Recharged per second" per_minute_to_per_second 1
+		#|-1 "%1%%% of Energy Shield Lost per minute" negate 1
+
+description
+	1 base_arrow_pierce_%
+	3
+		100|# "Arrows always Pierce"
+		1|99 "%1%%% chance of Arrows Piercing"
+		#|-1 "%1%%% chance of Arrows Piercing" negate 1
+
+description
+	1 fishing_hook_type
+	4
+		1 "Karui Stone Hook"
+		2 "Ezomite Shell Hook"
+		3 "Vaal Soul Hook"
+		4 "Eternal Iron Hook"

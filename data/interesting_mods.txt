@@ -1,0 +1,12 @@
+x% chance of Defusing Trapped Chests
+x% increased/reduced Movement Speed while Cursed
+x% increased/reduced Radius of Buffs affecting Party members
+Buffs affect your Party members
+x% chance of Fire Spreading between enemies
+Enemy hits on you roll low Damage
+x% increased Damage per 10 Levels
+Gain a Power Charge when an enemy Interrupts you while you're Casting a Spell
+x% increased Relevancy of Items Found
+
+# Maps
+Players have Chaos Inoculation

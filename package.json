@@ -1,0 +1,22 @@
+{
+  "name": "poe-info",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Grab info from pathofexile.com or other sites",
+  "main": "index.js",
+  "scripts": {
+    "start": "coffee index.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pathofexile",
+    "poe"
+  ],
+  "author": "fuze",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.16.0",
+    "request": "^2.36.0",
+    "string": "^1.8.1"
+  }
+}

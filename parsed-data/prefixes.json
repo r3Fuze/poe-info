@@ -1,0 +1,4223 @@
+[
+  {
+    "name": "Armour",
+    "mods": [
+      {
+        "name": "Lacquered",
+        "itemlevel": 1,
+        "stat": "Base Physical Damage Reduction Rating",
+        "value": [
+          "3 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Studded",
+        "itemlevel": 18,
+        "stat": "Base Physical Damage Reduction Rating",
+        "value": [
+          "11 to 35"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ribbed",
+        "itemlevel": 30,
+        "stat": "Base Physical Damage Reduction Rating",
+        "value": [
+          "36 to 60"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fortified",
+        "itemlevel": 44,
+        "stat": "Base Physical Damage Reduction Rating",
+        "value": [
+          "61 to 138"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Plated",
+        "itemlevel": 57,
+        "stat": "Base Physical Damage Reduction Rating",
+        "value": [
+          "139 to 322"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Carapaced",
+        "itemlevel": 71,
+        "stat": "Base Physical Damage Reduction Rating",
+        "value": [
+          "323 to 400"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Lacquered",
+        "itemlevel": 1,
+        "stat": "Local Base Physical Damage Reduction Rating",
+        "value": [
+          "3 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Studded",
+        "itemlevel": 18,
+        "stat": "Local Base Physical Damage Reduction Rating",
+        "value": [
+          "11 to 35"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ribbed",
+        "itemlevel": 30,
+        "stat": "Local Base Physical Damage Reduction Rating",
+        "value": [
+          "36 to 60"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fortified",
+        "itemlevel": 46,
+        "stat": "Local Base Physical Damage Reduction Rating",
+        "value": [
+          "61 to 138"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Plated",
+        "itemlevel": 59,
+        "stat": "Local Base Physical Damage Reduction Rating",
+        "value": [
+          "139 to 322"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Carapaced",
+        "itemlevel": 73,
+        "stat": "Local Base Physical Damage Reduction Rating",
+        "value": [
+          "323 to 400"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Reinforced",
+        "itemlevel": 3,
+        "stat": "Local Physical Damage Reduction Rating +%",
+        "value": [
+          "11 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Layered",
+        "itemlevel": 17,
+        "stat": "Local Physical Damage Reduction Rating +%",
+        "value": [
+          "29 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Lobstered",
+        "itemlevel": 29,
+        "stat": "Local Physical Damage Reduction Rating +%",
+        "value": [
+          "47 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Buttressed",
+        "itemlevel": 42,
+        "stat": "Local Physical Damage Reduction Rating +%",
+        "value": [
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Thickened",
+        "itemlevel": 60,
+        "stat": "Local Physical Damage Reduction Rating +%",
+        "value": [
+          "83 to 100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Girded",
+        "itemlevel": 72,
+        "stat": "Local Physical Damage Reduction Rating +%",
+        "value": [
+          "101 to 120"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Reinforced",
+        "itemlevel": 2,
+        "stat": "Physical Damage Reduction Rating +%",
+        "value": [
+          "2 to 4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Layered",
+        "itemlevel": 18,
+        "stat": "Physical Damage Reduction Rating +%",
+        "value": [
+          "5 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Lobstered",
+        "itemlevel": 30,
+        "stat": "Physical Damage Reduction Rating +%",
+        "value": [
+          "8 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Buttressed",
+        "itemlevel": 42,
+        "stat": "Physical Damage Reduction Rating +%",
+        "value": [
+          "11 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Thickened",
+        "itemlevel": 56,
+        "stat": "Physical Damage Reduction Rating +%",
+        "value": [
+          "14 to 16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Solid",
+        "itemlevel": 70,
+        "stat": "Physical Damage Reduction Rating +%",
+        "value": [
+          "17 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Impregnable",
+        "itemlevel": 77,
+        "stat": "Physical Damage Reduction Rating +%",
+        "value": [
+          "20 to 22"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Armour and Stun Recovery",
+    "mods": [
+      {
+        "name": "Beetle's",
+        "itemlevel": 1,
+        "stat": [
+          "Local Physical Damage Reduction Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "6 to 14",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Crab's",
+        "itemlevel": 17,
+        "stat": [
+          "Local Physical Damage Reduction Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "15 to 23",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Armadillo's",
+        "itemlevel": 29,
+        "stat": [
+          "Local Physical Damage Reduction Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "24 to 32",
+          "10 to 11"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Rhino's",
+        "itemlevel": 42,
+        "stat": [
+          "Local Physical Damage Reduction Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "33 to 41",
+          "12 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Elephant's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Physical Damage Reduction Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "42 to 50",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mammoth's",
+        "itemlevel": 78,
+        "stat": [
+          "Local Physical Damage Reduction Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "51 to 56",
+          "16 to 17"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Bow and One Handed Elemental Damage",
+    "mods": [
+      {
+        "name": "Frosted",
+        "itemlevel": 2,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "2",
+          "4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chilled",
+        "itemlevel": 12,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "5 to 7",
+          "10 to 12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Icy",
+        "itemlevel": 19,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "7 to 10",
+          "15 to 18"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Frigid",
+        "itemlevel": 27,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "10 to 14",
+          "21 to 25"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Freezing",
+        "itemlevel": 34,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "12 to 17",
+          "26 to 30"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Frozen",
+        "itemlevel": 43,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "16 to 21",
+          "32 to 38"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glaciated",
+        "itemlevel": 52,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "19 to 25",
+          "39 to 45"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Polar",
+        "itemlevel": 63,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "23 to 31",
+          "46 to 54"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Entombing",
+        "itemlevel": 75,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "27 to 36",
+          "55 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Heated",
+        "itemlevel": 1,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "1 to 2",
+          "3 to 4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Smoldering",
+        "itemlevel": 11,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "5 to 7",
+          "11 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Smoking",
+        "itemlevel": 18,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "8 to 11",
+          "17 to 20"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Burning",
+        "itemlevel": 26,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "11 to 15",
+          "23 to 27"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Flaming",
+        "itemlevel": 33,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "14 to 19",
+          "29 to 34"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scorching",
+        "itemlevel": 42,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "18 to 24",
+          "36 to 42"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Incinerating",
+        "itemlevel": 51,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "21 to 29",
+          "43 to 50"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blasting",
+        "itemlevel": 62,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "26 to 34",
+          "52 to 61"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cremating",
+        "itemlevel": 74,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "30 to 41",
+          "62 to 72"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Humming",
+        "itemlevel": 3,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1",
+          "9 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Buzzing",
+        "itemlevel": 13,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1 to 2",
+          "23 to 25"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Snapping",
+        "itemlevel": 19,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1 to 3",
+          "31 to 33"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Crackling",
+        "itemlevel": 31,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "2 to 5",
+          "48 to 51"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sparking",
+        "itemlevel": 34,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "2 to 5",
+          "52 to 56"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Arcing",
+        "itemlevel": 42,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "3 to 6",
+          "63 to 67"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shocking",
+        "itemlevel": 51,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "3 to 8",
+          "76 to 81"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Discharging",
+        "itemlevel": 63,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "5 to 10",
+          "93 to 98"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Electrocuting",
+        "itemlevel": 74,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "5 to 11",
+          "108 to 115"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Damage",
+    "mods": [
+      {
+        "name": "Frosted",
+        "itemlevel": 2,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "1",
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chilled",
+        "itemlevel": 13,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "3 to 4",
+          "7 to 8"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Icy",
+        "itemlevel": 21,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "5 to 7",
+          "10 to 12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Frigid",
+        "itemlevel": 29,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "6 to 9",
+          "13 to 16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Freezing",
+        "itemlevel": 36,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "8 to 11",
+          "16 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Frozen",
+        "itemlevel": 45,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "10 to 13",
+          "20 to 24"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glaciated",
+        "itemlevel": 53,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "12 to 16",
+          "24 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Polar",
+        "itemlevel": 65,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "14 to 19",
+          "29 to 34"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Entombing",
+        "itemlevel": 77,
+        "stat": [
+          "Attack Minimum Added Cold Damage",
+          "Attack Maximum Added Cold Damage"
+        ],
+        "value": [
+          "17 to 22",
+          "34 to 40"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Heated",
+        "itemlevel": 1,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "1",
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Smoldering",
+        "itemlevel": 12,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "3 to 5",
+          "7 to 8"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Smoking",
+        "itemlevel": 20,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "5 to 7",
+          "11 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Burning",
+        "itemlevel": 28,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "7 to 10",
+          "15 to 18"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Flaming",
+        "itemlevel": 35,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "9 to 12",
+          "19 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scorching",
+        "itemlevel": 44,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "11 to 15",
+          "23 to 27"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Incinerating",
+        "itemlevel": 52,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "13 to 18",
+          "27 to 31"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blasting",
+        "itemlevel": 64,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "16 to 22",
+          "32 to 38"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cremating",
+        "itemlevel": 76,
+        "stat": [
+          "Attack Minimum Added Fire Damage",
+          "Attack Maximum Added Fire Damage"
+        ],
+        "value": [
+          "19 to 25",
+          "39 to 45"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Humming",
+        "itemlevel": 3,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1",
+          "5"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Buzzing",
+        "itemlevel": 13,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Snapping",
+        "itemlevel": 22,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1 to 2",
+          "22 to 23"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Crackling",
+        "itemlevel": 28,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1 to 2",
+          "27 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sparking",
+        "itemlevel": 35,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1 to 3",
+          "33 to 34"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Arcing",
+        "itemlevel": 44,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1 to 4",
+          "40 to 43"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shocking",
+        "itemlevel": 52,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "2 to 5",
+          "47 to 50"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Discharging",
+        "itemlevel": 64,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "3 to 6",
+          "57 to 61"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Electrocuting",
+        "itemlevel": 76,
+        "stat": [
+          "Attack Minimum Added Lightning Damage",
+          "Attack Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "3 to 7",
+          "68 to 72"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glinting",
+        "itemlevel": 5,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "1",
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Burnished",
+        "itemlevel": 13,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "2 to 3",
+          "4 to 5"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Polished",
+        "itemlevel": 19,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "3 to 4",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Honed",
+        "itemlevel": 28,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "4 to 6",
+          "9 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gleaming",
+        "itemlevel": 35,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "5 to 7",
+          "11 to 12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Annealed",
+        "itemlevel": 44,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "6 to 9",
+          "13 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Razor Sharp",
+        "itemlevel": 52,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "7 to 10",
+          "15 to 18"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Tempered",
+        "itemlevel": 64,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "9 to 12",
+          "19 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Flaring",
+        "itemlevel": 76,
+        "stat": [
+          "Attack Minimum Added Physical Damage",
+          "Attack Maximum Added Physical Damage"
+        ],
+        "value": [
+          "11 to 15",
+          "22 to 26"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glinting",
+        "itemlevel": 2,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "1",
+          "2 to 3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Burnished",
+        "itemlevel": 13,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "4 to 5",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Polished",
+        "itemlevel": 21,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "6 to 8",
+          "12 to 14"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Honed",
+        "itemlevel": 29,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "7 to 10",
+          "15 to 18"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gleaming",
+        "itemlevel": 36,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "9 to 12",
+          "19 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Annealed",
+        "itemlevel": 46,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "12 to 16",
+          "24 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Razor Sharp",
+        "itemlevel": 54,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "13 to 18",
+          "27 to 32"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Tempered",
+        "itemlevel": 65,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "16 to 22",
+          "33 to 38"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Flaring",
+        "itemlevel": 77,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "19 to 25",
+          "38 to 45"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Damage Return",
+    "mods": [
+      {
+        "name": "Thorny",
+        "itemlevel": 1,
+        "stat": [
+          "Minimum Physical Damage To Return To Melee Attacker",
+          "Maximum Physical Damage To Return To Melee Attacker"
+        ],
+        "value": [
+          "1 to 4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Spiny",
+        "itemlevel": 10,
+        "stat": [
+          "Minimum Physical Damage To Return To Melee Attacker",
+          "Maximum Physical Damage To Return To Melee Attacker"
+        ],
+        "value": [
+          "5 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Barbed",
+        "itemlevel": 20,
+        "stat": [
+          "Minimum Physical Damage To Return To Melee Attacker",
+          "Maximum Physical Damage To Return To Melee Attacker"
+        ],
+        "value": [
+          "11 to 24"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Jagged",
+        "itemlevel": 35,
+        "stat": [
+          "Minimum Physical Damage To Return To Melee Attacker",
+          "Maximum Physical Damage To Return To Melee Attacker"
+        ],
+        "value": [
+          "25 to 50"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Damage Scaling",
+    "mods": [
+      {
+        "name": "Heavy",
+        "itemlevel": 1,
+        "stat": "Local Physical Damage +%",
+        "value": [
+          "20 to 49"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Serrated",
+        "itemlevel": 11,
+        "stat": "Local Physical Damage +%",
+        "value": [
+          "50 to 69"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wicked",
+        "itemlevel": 23,
+        "stat": "Local Physical Damage +%",
+        "value": [
+          "70 to 89"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Vicious",
+        "itemlevel": 35,
+        "stat": "Local Physical Damage +%",
+        "value": [
+          "90 to 109"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Bloodthirsty",
+        "itemlevel": 46,
+        "stat": "Local Physical Damage +%",
+        "value": [
+          "110 to 129"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cruel",
+        "itemlevel": 60,
+        "stat": "Local Physical Damage +%",
+        "value": [
+          "130 to 149"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Tyrannical",
+        "itemlevel": 73,
+        "stat": "Local Physical Damage +%",
+        "value": [
+          "150 to 169"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Damage Scaling and Accuracy",
+    "mods": [
+      {
+        "name": "Squire's",
+        "itemlevel": 1,
+        "stat": [
+          "Local Physical Damage +%",
+          "Local Accuracy Rating"
+        ],
+        "value": [
+          "10 to 24",
+          "3 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Journeyman's",
+        "itemlevel": 11,
+        "stat": [
+          "Local Physical Damage +%",
+          "Local Accuracy Rating"
+        ],
+        "value": [
+          "25 to 34",
+          "8 to 30"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Reaver's",
+        "itemlevel": 23,
+        "stat": [
+          "Local Physical Damage +%",
+          "Local Accuracy Rating"
+        ],
+        "value": [
+          "35 to 44",
+          "31 to 50"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mercenary's",
+        "itemlevel": 35,
+        "stat": [
+          "Local Physical Damage +%",
+          "Local Accuracy Rating"
+        ],
+        "value": [
+          "45 to 54",
+          "51 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Champion's",
+        "itemlevel": 46,
+        "stat": [
+          "Local Physical Damage +%",
+          "Local Accuracy Rating"
+        ],
+        "value": [
+          "55 to 64",
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Conqueror's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Physical Damage +%",
+          "Local Accuracy Rating"
+        ],
+        "value": [
+          "65 to 74",
+          "83 to 99"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Emperor's",
+        "itemlevel": 73,
+        "stat": [
+          "Local Physical Damage +%",
+          "Local Accuracy Rating"
+        ],
+        "value": [
+          "75 to 80",
+          "100 to 135"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Energy Shield",
+    "mods": [
+      {
+        "name": "Shining",
+        "itemlevel": 3,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "1 to 3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glimmering",
+        "itemlevel": 11,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "4 to 8"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glittering",
+        "itemlevel": 17,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "9 to 12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glowing",
+        "itemlevel": 23,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "13 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Radiating",
+        "itemlevel": 29,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "16 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Pulsing",
+        "itemlevel": 35,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "20 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Seething",
+        "itemlevel": 42,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "23 to 26"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blazing",
+        "itemlevel": 50,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "27 to 31"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scintillating",
+        "itemlevel": 59,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "32 to 37"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Incandescent",
+        "itemlevel": 68,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "38 to 43"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Resplendent",
+        "itemlevel": 74,
+        "stat": "Base Maximum Energy Shield",
+        "value": [
+          "44 to 47"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shining",
+        "itemlevel": 3,
+        "stat": "Local Energy Shield",
+        "value": [
+          "3 to 5"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glimmering",
+        "itemlevel": 11,
+        "stat": "Local Energy Shield",
+        "value": [
+          "6 to 8"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glittering",
+        "itemlevel": 17,
+        "stat": "Local Energy Shield",
+        "value": [
+          "9 to 12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glowing",
+        "itemlevel": 23,
+        "stat": "Local Energy Shield",
+        "value": [
+          "13 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Radiating",
+        "itemlevel": 29,
+        "stat": "Local Energy Shield",
+        "value": [
+          "16 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Pulsing",
+        "itemlevel": 35,
+        "stat": "Local Energy Shield",
+        "value": [
+          "20 to 29"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Seething",
+        "itemlevel": 43,
+        "stat": "Local Energy Shield",
+        "value": [
+          "30 to 48"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blazing",
+        "itemlevel": 51,
+        "stat": "Local Energy Shield",
+        "value": [
+          "49 to 72"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scintillating",
+        "itemlevel": 60,
+        "stat": "Local Energy Shield",
+        "value": [
+          "73 to 106"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Incandescent",
+        "itemlevel": 69,
+        "stat": "Local Energy Shield",
+        "value": [
+          "107 to 135"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Resplendent",
+        "itemlevel": 75,
+        "stat": "Local Energy Shield",
+        "value": [
+          "136 to 145"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Protective",
+        "itemlevel": 3,
+        "stat": "Local Energy Shield +%",
+        "value": [
+          "11 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Strong-Willed",
+        "itemlevel": 18,
+        "stat": "Local Energy Shield +%",
+        "value": [
+          "29 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Resolute",
+        "itemlevel": 30,
+        "stat": "Local Energy Shield +%",
+        "value": [
+          "47 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fearless",
+        "itemlevel": 44,
+        "stat": "Local Energy Shield +%",
+        "value": [
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dauntless",
+        "itemlevel": 60,
+        "stat": "Local Energy Shield +%",
+        "value": [
+          "83 to 100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Unconquerable",
+        "itemlevel": 72,
+        "stat": "Local Energy Shield +%",
+        "value": [
+          "101 to 120"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Protective",
+        "itemlevel": 3,
+        "stat": "Maximum Energy Shield +%",
+        "value": [
+          "2 to 4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Strong-Willed",
+        "itemlevel": 18,
+        "stat": "Maximum Energy Shield +%",
+        "value": [
+          "5 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Resolute",
+        "itemlevel": 30,
+        "stat": "Maximum Energy Shield +%",
+        "value": [
+          "8 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fearless",
+        "itemlevel": 42,
+        "stat": "Maximum Energy Shield +%",
+        "value": [
+          "11 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dauntless",
+        "itemlevel": 56,
+        "stat": "Maximum Energy Shield +%",
+        "value": [
+          "14 to 16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Indomitable",
+        "itemlevel": 70,
+        "stat": "Maximum Energy Shield +%",
+        "value": [
+          "17 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Unassailable",
+        "itemlevel": 77,
+        "stat": "Maximum Energy Shield +%",
+        "value": [
+          "20 to 22"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Energy Shield and Stun Recovery",
+    "mods": [
+      {
+        "name": "Pixie's",
+        "itemlevel": 3,
+        "stat": [
+          "Local Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "6 to 14",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gremlin's",
+        "itemlevel": 18,
+        "stat": [
+          "Local Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "15 to 23",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Boggart's",
+        "itemlevel": 30,
+        "stat": [
+          "Local Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "24 to 32",
+          "10 to 11"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Naga's",
+        "itemlevel": 44,
+        "stat": [
+          "Local Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "33 to 41",
+          "12 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Djinn's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "42 to 50",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Seraphim's",
+        "itemlevel": 78,
+        "stat": [
+          "Local Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "51 to 56",
+          "16 to 17"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Evasion",
+    "mods": [
+      {
+        "name": "Agile",
+        "itemlevel": 1,
+        "stat": "Base Evasion Rating",
+        "value": [
+          "3 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dancer's",
+        "itemlevel": 18,
+        "stat": "Base Evasion Rating",
+        "value": [
+          "11 to 35"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Acrobat's",
+        "itemlevel": 29,
+        "stat": "Base Evasion Rating",
+        "value": [
+          "36 to 60"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fleet",
+        "itemlevel": 42,
+        "stat": "Base Evasion Rating",
+        "value": [
+          "61 to 80"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blurred",
+        "itemlevel": 58,
+        "stat": "Base Evasion Rating",
+        "value": [
+          "81 to 120"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Phased",
+        "itemlevel": 72,
+        "stat": "Base Evasion Rating",
+        "value": [
+          "121 to 150"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Agile",
+        "itemlevel": 2,
+        "stat": "Evasion Rating +%",
+        "value": [
+          "2 to 4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dancer's",
+        "itemlevel": 19,
+        "stat": "Evasion Rating +%",
+        "value": [
+          "5 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Acrobat's",
+        "itemlevel": 30,
+        "stat": "Evasion Rating +%",
+        "value": [
+          "8 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fleet",
+        "itemlevel": 42,
+        "stat": "Evasion Rating +%",
+        "value": [
+          "11 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blurred",
+        "itemlevel": 56,
+        "stat": "Evasion Rating +%",
+        "value": [
+          "14 to 16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Phased",
+        "itemlevel": 70,
+        "stat": "Evasion Rating +%",
+        "value": [
+          "17 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Vaporous",
+        "itemlevel": 77,
+        "stat": "Evasion Rating +%",
+        "value": [
+          "20 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Agile",
+        "itemlevel": 1,
+        "stat": "Local Base Evasion Rating",
+        "value": [
+          "3 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dancer's",
+        "itemlevel": 18,
+        "stat": "Local Base Evasion Rating",
+        "value": [
+          "11 to 35"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Acrobat's",
+        "itemlevel": 29,
+        "stat": "Local Base Evasion Rating",
+        "value": [
+          "36 to 60"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fleet",
+        "itemlevel": 42,
+        "stat": "Local Base Evasion Rating",
+        "value": [
+          "61 to 138"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blurred",
+        "itemlevel": 56,
+        "stat": "Local Base Evasion Rating",
+        "value": [
+          "139 to 322"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Phased",
+        "itemlevel": 70,
+        "stat": "Local Base Evasion Rating",
+        "value": [
+          "323 to 400"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shade's",
+        "itemlevel": 3,
+        "stat": "Local Evasion Rating +%",
+        "value": [
+          "11 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ghost's",
+        "itemlevel": 19,
+        "stat": "Local Evasion Rating +%",
+        "value": [
+          "29 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Spectre's",
+        "itemlevel": 30,
+        "stat": "Local Evasion Rating +%",
+        "value": [
+          "47 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wraith's",
+        "itemlevel": 44,
+        "stat": "Local Evasion Rating +%",
+        "value": [
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Phantasm's",
+        "itemlevel": 60,
+        "stat": "Local Evasion Rating +%",
+        "value": [
+          "83 to 100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Nightmare's",
+        "itemlevel": 72,
+        "stat": "Local Evasion Rating +%",
+        "value": [
+          "101 to 120"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Evasion and Stun Recovery",
+    "mods": [
+      {
+        "name": "Mosquito's",
+        "itemlevel": 2,
+        "stat": [
+          "Local Evasion Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "6 to 14",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Moth's",
+        "itemlevel": 19,
+        "stat": [
+          "Local Evasion Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "15 to 23",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Butterfly's",
+        "itemlevel": 30,
+        "stat": [
+          "Local Evasion Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "24 to 32",
+          "10 to 11"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wasp's",
+        "itemlevel": 44,
+        "stat": [
+          "Local Evasion Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "33 to 41",
+          "12 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dragonfly's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Evasion Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "42 to 50",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Hummingbird's",
+        "itemlevel": 78,
+        "stat": [
+          "Local Evasion Rating +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "51 to 56",
+          "16 to 17"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Flask",
+    "mods": [
+      {
+        "name": "Perpetual",
+        "itemlevel": 3,
+        "stat": "Local Charges Added +%",
+        "value": [
+          "20 to 40"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ample",
+        "itemlevel": 2,
+        "stat": "Local Extra Max Charges",
+        "value": [
+          "10 to 20"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Saturated",
+        "itemlevel": 1,
+        "stat": [
+          "Local Flask Amount To Recover +%",
+          "Local Flask Recovery Speed +%"
+        ],
+        "value": [
+          "50",
+          "-33"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cautious",
+        "itemlevel": 6,
+        "stat": "Local Flask Amount To Recover +% When On Low Life",
+        "value": [
+          "100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sapping",
+        "itemlevel": 13,
+        "stat": [
+          "Local Flask Life To Recover +%",
+          "Local Flask Removes % Of Life Recovery From Mana On Use"
+        ],
+        "value": [
+          "60",
+          "10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Caustic",
+        "itemlevel": 11,
+        "stat": [
+          "Local Flask Mana To Recover +%",
+          "Local Flask Removes % Of Mana Recovery From Life On Use"
+        ],
+        "value": [
+          "60",
+          "15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Panicked",
+        "itemlevel": 9,
+        "stat": [
+          "Local Flask Recover Instantly When On Low Life",
+          "Local Flask Amount To Recover +%"
+        ],
+        "value": [
+          "1",
+          "-25"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Seething",
+        "itemlevel": 7,
+        "stat": [
+          "Local Flask Recovers Instantly",
+          "Local Flask Amount To Recover +%"
+        ],
+        "value": [
+          "1",
+          "-66"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Bubbling",
+        "itemlevel": 3,
+        "stat": [
+          "Local Flask Recovery Amount % To Recover Instantly",
+          "Local Flask Amount To Recover +%",
+          "Local Flask Recovery Speed +%"
+        ],
+        "value": [
+          "50",
+          "-50",
+          "135"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Catalysed",
+        "itemlevel": 1,
+        "stat": "Local Flask Recovery Speed +%",
+        "value": [
+          "50"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Surgeon's",
+        "itemlevel": 8,
+        "stat": "Local Recharge On Crit",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Avenger's",
+        "itemlevel": 12,
+        "stat": "Local Recharge On Take Crit",
+        "value": [
+          "3"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Flask Effects",
+    "mods": [
+      {
+        "name": "Recovering",
+        "itemlevel": 5,
+        "stat": "Flask Life Recovery Rate +%",
+        "value": [
+          "10 to 20"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Inspiring",
+        "itemlevel": 5,
+        "stat": "Flask Mana Recovery Rate +%",
+        "value": [
+          "10 to 20"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Gem Level",
+    "mods": [
+      {
+        "name": "Fletcher's",
+        "itemlevel": 9,
+        "stat": "Local Socketed Bow Gem Level +",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sharpshooter's",
+        "itemlevel": 64,
+        "stat": "Local Socketed Bow Gem Level +",
+        "value": [
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Frost Weaver's",
+        "itemlevel": 2,
+        "stat": "Local Socketed Cold Gem Level +",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Winterbringer's",
+        "itemlevel": 55,
+        "stat": "Local Socketed Cold Gem Level +",
+        "value": [
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Flame Spinner's",
+        "itemlevel": 2,
+        "stat": "Local Socketed Fire Gem Level +",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Lava Caller's",
+        "itemlevel": 55,
+        "stat": "Local Socketed Fire Gem Level +",
+        "value": [
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Paragon's",
+        "itemlevel": 50,
+        "stat": "Local Socketed Gem Level +",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Thunder Lord's",
+        "itemlevel": 2,
+        "stat": "Local Socketed Lightning Gem Level +",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Tempest King's",
+        "itemlevel": 55,
+        "stat": "Local Socketed Lightning Gem Level +",
+        "value": [
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Combatant's",
+        "itemlevel": 8,
+        "stat": "Local Socketed Melee Gem Level +",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Weaponmaster's",
+        "itemlevel": 63,
+        "stat": "Local Socketed Melee Gem Level +",
+        "value": [
+          "2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Reanimator's",
+        "itemlevel": 14,
+        "stat": "Local Socketed Minion Gem Level +",
+        "value": [
+          "1"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Summoner's",
+        "itemlevel": 65,
+        "stat": "Local Socketed Minion Gem Level +",
+        "value": [
+          "2"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Hybrid Defences",
+    "mods": [
+      {
+        "name": "Infixed",
+        "itemlevel": 3,
+        "stat": "Local Armour And Energy Shield +%",
+        "value": [
+          "11 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ingrained",
+        "itemlevel": 19,
+        "stat": "Local Armour And Energy Shield +%",
+        "value": [
+          "29 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Instilled",
+        "itemlevel": 30,
+        "stat": "Local Armour And Energy Shield +%",
+        "value": [
+          "47 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Infused",
+        "itemlevel": 44,
+        "stat": "Local Armour And Energy Shield +%",
+        "value": [
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Inculcated",
+        "itemlevel": 60,
+        "stat": "Local Armour And Energy Shield +%",
+        "value": [
+          "83 to 100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Interpolated",
+        "itemlevel": 72,
+        "stat": "Local Armour And Energy Shield +%",
+        "value": [
+          "101 to 120"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scrapper's",
+        "itemlevel": 3,
+        "stat": "Local Armour And Evasion +%",
+        "value": [
+          "11 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Brawler's",
+        "itemlevel": 19,
+        "stat": "Local Armour And Evasion +%",
+        "value": [
+          "29 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fencer's",
+        "itemlevel": 30,
+        "stat": "Local Armour And Evasion +%",
+        "value": [
+          "47 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gladiator's",
+        "itemlevel": 44,
+        "stat": "Local Armour And Evasion +%",
+        "value": [
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Duelist's",
+        "itemlevel": 60,
+        "stat": "Local Armour And Evasion +%",
+        "value": [
+          "83 to 100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Hero's",
+        "itemlevel": 72,
+        "stat": "Local Armour And Evasion +%",
+        "value": [
+          "101 to 120"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shadowy",
+        "itemlevel": 3,
+        "stat": "Local Armour And Evasion And Energy Shield +%",
+        "value": [
+          "11 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ethereal",
+        "itemlevel": 19,
+        "stat": "Local Armour And Evasion And Energy Shield +%",
+        "value": [
+          "29 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Unworldly",
+        "itemlevel": 30,
+        "stat": "Local Armour And Evasion And Energy Shield +%",
+        "value": [
+          "47 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ephemeral",
+        "itemlevel": 44,
+        "stat": "Local Armour And Evasion And Energy Shield +%",
+        "value": [
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Evanescent",
+        "itemlevel": 60,
+        "stat": "Local Armour And Evasion And Energy Shield +%",
+        "value": [
+          "83 to 100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Unreal",
+        "itemlevel": 72,
+        "stat": "Local Armour And Evasion And Energy Shield +%",
+        "value": [
+          "101 to 120"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shadowy",
+        "itemlevel": 3,
+        "stat": "Local Evasion And Energy Shield +%",
+        "value": [
+          "11 to 28"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ethereal",
+        "itemlevel": 19,
+        "stat": "Local Evasion And Energy Shield +%",
+        "value": [
+          "29 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Unworldly",
+        "itemlevel": 30,
+        "stat": "Local Evasion And Energy Shield +%",
+        "value": [
+          "47 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ephemeral",
+        "itemlevel": 44,
+        "stat": "Local Evasion And Energy Shield +%",
+        "value": [
+          "65 to 82"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Evanescent",
+        "itemlevel": 60,
+        "stat": "Local Evasion And Energy Shield +%",
+        "value": [
+          "83 to 100"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Unreal",
+        "itemlevel": 72,
+        "stat": "Local Evasion And Energy Shield +%",
+        "value": [
+          "101 to 120"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Hybrid Defences and Stun Recovery",
+    "mods": [
+      {
+        "name": "Pixie's",
+        "itemlevel": 2,
+        "stat": [
+          "Local Armour And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "6 to 14",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gremlin's",
+        "itemlevel": 19,
+        "stat": [
+          "Local Armour And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "15 to 23",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Boggart's",
+        "itemlevel": 30,
+        "stat": [
+          "Local Armour And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "24 to 32",
+          "10 to 11"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Naga's",
+        "itemlevel": 44,
+        "stat": [
+          "Local Armour And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "33 to 41",
+          "12 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Djinn's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Armour And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "42 to 50",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Seraphim's",
+        "itemlevel": 78,
+        "stat": [
+          "Local Armour And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "51 to 56",
+          "16 to 17"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Beetle's",
+        "itemlevel": 2,
+        "stat": [
+          "Local Armour And Evasion +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "6 to 14",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Crab's",
+        "itemlevel": 19,
+        "stat": [
+          "Local Armour And Evasion +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "15 to 23",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Armadillo's",
+        "itemlevel": 30,
+        "stat": [
+          "Local Armour And Evasion +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "24 to 32",
+          "10 to 11"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Rhino's",
+        "itemlevel": 44,
+        "stat": [
+          "Local Armour And Evasion +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "33 to 41",
+          "12 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Elephant's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Armour And Evasion +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "42 to 50",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mammoth's",
+        "itemlevel": 78,
+        "stat": [
+          "Local Armour And Evasion +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "51 to 56",
+          "16 to 17"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mosquito's",
+        "itemlevel": 2,
+        "stat": [
+          "Local Armour And Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "6 to 14",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Moth's",
+        "itemlevel": 19,
+        "stat": [
+          "Local Armour And Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "15 to 23",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Butterfly's",
+        "itemlevel": 30,
+        "stat": [
+          "Local Armour And Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "24 to 32",
+          "10 to 11"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wasp's",
+        "itemlevel": 44,
+        "stat": [
+          "Local Armour And Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "33 to 41",
+          "12 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dragonfly's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Armour And Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "42 to 50",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Hummingbird's",
+        "itemlevel": 78,
+        "stat": [
+          "Local Armour And Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "51 to 56",
+          "16 to 17"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mosquito's",
+        "itemlevel": 2,
+        "stat": [
+          "Local Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "6 to 14",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Moth's",
+        "itemlevel": 19,
+        "stat": [
+          "Local Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "15 to 23",
+          "8 to 9"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Butterfly's",
+        "itemlevel": 30,
+        "stat": [
+          "Local Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "24 to 32",
+          "10 to 11"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wasp's",
+        "itemlevel": 44,
+        "stat": [
+          "Local Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "33 to 41",
+          "12 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dragonfly's",
+        "itemlevel": 60,
+        "stat": [
+          "Local Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "42 to 50",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Hummingbird's",
+        "itemlevel": 78,
+        "stat": [
+          "Local Evasion And Energy Shield +%",
+          "Base Stun Recovery +%"
+        ],
+        "value": [
+          "51 to 56",
+          "16 to 17"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Item Acquisition",
+    "mods": [
+      {
+        "name": "Magpie's",
+        "itemlevel": 20,
+        "stat": "Base Item Found Rarity +%",
+        "value": [
+          "8 to 12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Pirate's",
+        "itemlevel": 39,
+        "stat": "Base Item Found Rarity +%",
+        "value": [
+          "13 to 18"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Dragon's",
+        "itemlevel": 62,
+        "stat": "Base Item Found Rarity +%",
+        "value": [
+          "19 to 24"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Life",
+    "mods": [
+      {
+        "name": "Healthy",
+        "itemlevel": 1,
+        "stat": "Base Maximum Life",
+        "value": [
+          "10 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sanguine",
+        "itemlevel": 11,
+        "stat": "Base Maximum Life",
+        "value": [
+          "20 to 29"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Stalwart",
+        "itemlevel": 18,
+        "stat": "Base Maximum Life",
+        "value": [
+          "30 to 39"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Stout",
+        "itemlevel": 24,
+        "stat": "Base Maximum Life",
+        "value": [
+          "40 to 49"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Robust",
+        "itemlevel": 30,
+        "stat": "Base Maximum Life",
+        "value": [
+          "50 to 59"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Rotund",
+        "itemlevel": 36,
+        "stat": "Base Maximum Life",
+        "value": [
+          "60 to 69"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Virile",
+        "itemlevel": 44,
+        "stat": "Base Maximum Life",
+        "value": [
+          "70 to 79"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Athlete's",
+        "itemlevel": 54,
+        "stat": "Base Maximum Life",
+        "value": [
+          "80 to 89"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Fecund",
+        "itemlevel": 64,
+        "stat": "Base Maximum Life",
+        "value": [
+          "90 to 99"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Vigorous",
+        "itemlevel": 73,
+        "stat": "Base Maximum Life",
+        "value": [
+          "100 to 109"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Life Leech",
+    "mods": [
+      {
+        "name": "Remora's",
+        "itemlevel": 9,
+        "stat": "Life Leech From Physical Damage %",
+        "value": [
+          "1 to 2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Lamprey's",
+        "itemlevel": 25,
+        "stat": "Life Leech From Physical Damage %",
+        "value": [
+          "3 to 4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Vampire's",
+        "itemlevel": 72,
+        "stat": "Life Leech From Physical Damage %",
+        "value": [
+          "5 to 6"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Mana",
+    "mods": [
+      {
+        "name": "Beryl",
+        "itemlevel": 1,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "15 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cobalt",
+        "itemlevel": 11,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "20 to 24"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Azure",
+        "itemlevel": 17,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "25 to 29"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sapphire",
+        "itemlevel": 23,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "30 to 34"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cerulean",
+        "itemlevel": 29,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "35 to 39"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Aqua",
+        "itemlevel": 35,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "40 to 44"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Opalescent",
+        "itemlevel": 42,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "45 to 49"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gentian",
+        "itemlevel": 51,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "50 to 54"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chalybeous",
+        "itemlevel": 60,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "55 to 59"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mazarine",
+        "itemlevel": 69,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "60 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blue",
+        "itemlevel": 75,
+        "stat": "Base Maximum Mana",
+        "value": [
+          "65 to 68"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Mana Leech",
+    "mods": [
+      {
+        "name": "Thirsty",
+        "itemlevel": 9,
+        "stat": "Mana Leech From Physical Damage %",
+        "value": [
+          "1 to 2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Parched",
+        "itemlevel": 74,
+        "stat": "Mana Leech From Physical Damage %",
+        "value": [
+          "3 to 4"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Movement Velocity",
+    "mods": [
+      {
+        "name": "Runner's",
+        "itemlevel": 1,
+        "stat": "Base Movement Velocity +%",
+        "value": [
+          "10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sprinter's",
+        "itemlevel": 15,
+        "stat": "Base Movement Velocity +%",
+        "value": [
+          "15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Stallion's",
+        "itemlevel": 30,
+        "stat": "Base Movement Velocity +%",
+        "value": [
+          "20"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gazelle's",
+        "itemlevel": 40,
+        "stat": "Base Movement Velocity +%",
+        "value": [
+          "25"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cheetah's",
+        "itemlevel": 55,
+        "stat": "Base Movement Velocity +%",
+        "value": [
+          "30"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "One Hand Spell Damage and Mana",
+    "mods": [
+      {
+        "name": "Caster's",
+        "itemlevel": 2,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "5 to 9",
+          "8 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Conjuror's",
+        "itemlevel": 11,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "10 to 14",
+          "11 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wizard's",
+        "itemlevel": 23,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "15 to 19",
+          "14 to 16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Warlock's",
+        "itemlevel": 35,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "20 to 24",
+          "17 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mage's",
+        "itemlevel": 46,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "25 to 29",
+          "20 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Archmage's",
+        "itemlevel": 58,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "30 to 34",
+          "23 to 25"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "One Handed Spell Damage",
+    "mods": [
+      {
+        "name": "Apprentice's",
+        "itemlevel": 2,
+        "stat": "Spell Damage +%",
+        "value": [
+          "10 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Adept's",
+        "itemlevel": 11,
+        "stat": "Spell Damage +%",
+        "value": [
+          "20 to 29"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scholar's",
+        "itemlevel": 23,
+        "stat": "Spell Damage +%",
+        "value": [
+          "30 to 39"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Professor's",
+        "itemlevel": 35,
+        "stat": "Spell Damage +%",
+        "value": [
+          "40 to 49"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Occultist's",
+        "itemlevel": 46,
+        "stat": "Spell Damage +%",
+        "value": [
+          "50 to 59"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Incanter's",
+        "itemlevel": 58,
+        "stat": "Spell Damage +%",
+        "value": [
+          "60 to 69"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glyphic",
+        "itemlevel": 79,
+        "stat": "Spell Damage +%",
+        "value": [
+          "70 to 74"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Spell Damage",
+    "mods": [
+      {
+        "name": "Chanter's",
+        "itemlevel": 5,
+        "stat": "Spell Damage +%",
+        "value": [
+          "3 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mage's",
+        "itemlevel": 20,
+        "stat": "Spell Damage +%",
+        "value": [
+          "8 to 12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sorcerer's",
+        "itemlevel": 38,
+        "stat": "Spell Damage +%",
+        "value": [
+          "13 to 17"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Thaumaturgist's",
+        "itemlevel": 56,
+        "stat": "Spell Damage +%",
+        "value": [
+          "18 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wizard's",
+        "itemlevel": 76,
+        "stat": "Spell Damage +%",
+        "value": [
+          "23 to 26"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Staff Spell Damage",
+    "mods": [
+      {
+        "name": "Apprentice's",
+        "itemlevel": 2,
+        "stat": "Spell Damage +%",
+        "value": [
+          "15 to 29"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Adept's",
+        "itemlevel": 11,
+        "stat": "Spell Damage +%",
+        "value": [
+          "30 to 44"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scholar's",
+        "itemlevel": 23,
+        "stat": "Spell Damage +%",
+        "value": [
+          "45 to 59"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Professor's",
+        "itemlevel": 35,
+        "stat": "Spell Damage +%",
+        "value": [
+          "60 to 74"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Occultist's",
+        "itemlevel": 46,
+        "stat": "Spell Damage +%",
+        "value": [
+          "75 to 89"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Incanter's",
+        "itemlevel": 58,
+        "stat": "Spell Damage +%",
+        "value": [
+          "90 to 104"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glyphic",
+        "itemlevel": 79,
+        "stat": "Spell Damage +%",
+        "value": [
+          "105 to 110"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Staff Spell Damage and Mana",
+    "mods": [
+      {
+        "name": "Caster's",
+        "itemlevel": 2,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "8 to 14",
+          "8 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Conjuror's",
+        "itemlevel": 11,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "15 to 22",
+          "11 to 13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Wizard's",
+        "itemlevel": 23,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "23 to 29",
+          "14 to 16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Warlock's",
+        "itemlevel": 35,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "30 to 37",
+          "17 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mage's",
+        "itemlevel": 46,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "38 to 44",
+          "20 to 22"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Archmage's",
+        "itemlevel": 58,
+        "stat": [
+          "Spell Damage +%",
+          "Base Maximum Mana"
+        ],
+        "value": [
+          "45 to 50",
+          "23 to 25"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Two Handed Damage",
+    "mods": [
+      {
+        "name": "Glinting",
+        "itemlevel": 2,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "2",
+          "4 to 5"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Burnished",
+        "itemlevel": 13,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "6 to 8",
+          "12 to 14"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Polished",
+        "itemlevel": 21,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "9 to 12",
+          "18 to 21"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Honed",
+        "itemlevel": 29,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "11 to 15",
+          "23 to 27"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Gleaming",
+        "itemlevel": 36,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "14 to 19",
+          "28 to 33"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Annealed",
+        "itemlevel": 46,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "18 to 24",
+          "36 to 42"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Razor Sharp",
+        "itemlevel": 54,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "20 to 27",
+          "41 to 48"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Tempered",
+        "itemlevel": 65,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "24 to 33",
+          "49 to 57"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Flaring",
+        "itemlevel": 77,
+        "stat": [
+          "Local Minimum Added Physical Damage",
+          "Local Maximum Added Physical Damage"
+        ],
+        "value": [
+          "29 to 38",
+          "58 to 68"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Two Handed Melee Elemental Damage",
+    "mods": [
+      {
+        "name": "Frosted",
+        "itemlevel": 2,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "2 to 4",
+          "6 to 7"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chilled",
+        "itemlevel": 12,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "8 to 10",
+          "16 to 19"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Icy",
+        "itemlevel": 19,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "11 to 15",
+          "23 to 27"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Frigid",
+        "itemlevel": 27,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "16 to 21",
+          "32 to 37"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Freezing",
+        "itemlevel": 34,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "19 to 26",
+          "39 to 46"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Frozen",
+        "itemlevel": 43,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "24 to 32",
+          "49 to 57"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Glaciated",
+        "itemlevel": 52,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "29 to 39",
+          "58 to 68"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Polar",
+        "itemlevel": 63,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "35 to 46",
+          "70 to 81"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Entombing",
+        "itemlevel": 75,
+        "stat": [
+          "Local Minimum Added Cold Damage",
+          "Local Maximum Added Cold Damage"
+        ],
+        "value": [
+          "41 to 55",
+          "82 to 96"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Heated",
+        "itemlevel": 1,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "2 to 3",
+          "5 to 6"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Smoldering",
+        "itemlevel": 11,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "8 to 11",
+          "17 to 20"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Smoking",
+        "itemlevel": 18,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "12 to 17",
+          "26 to 30"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Burning",
+        "itemlevel": 26,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "17 to 23",
+          "35 to 41"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Flaming",
+        "itemlevel": 33,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "21 to 29",
+          "44 to 51"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Scorching",
+        "itemlevel": 42,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "27 to 36",
+          "54 to 64"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Incinerating",
+        "itemlevel": 51,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "32 to 43",
+          "65 to 76"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Blasting",
+        "itemlevel": 62,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "39 to 52",
+          "79 to 92"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Cremating",
+        "itemlevel": 74,
+        "stat": [
+          "Local Minimum Added Fire Damage",
+          "Local Maximum Added Fire Damage"
+        ],
+        "value": [
+          "46 to 62",
+          "93 to 109"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Humming",
+        "itemlevel": 3,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1",
+          "14 to 15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Buzzing",
+        "itemlevel": 13,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "1 to 3",
+          "35 to 37"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Snapping",
+        "itemlevel": 19,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "2 to 5",
+          "47 to 50"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Crackling",
+        "itemlevel": 31,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "3 to 7",
+          "73 to 77"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Sparking",
+        "itemlevel": 34,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "3 to 8",
+          "79 to 83"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Arcing",
+        "itemlevel": 42,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "5 to 10",
+          "96 to 101"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shocking",
+        "itemlevel": 51,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "6 to 12",
+          "115 to 121"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Discharging",
+        "itemlevel": 63,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "7 to 15",
+          "140 to 148"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Electrocuting",
+        "itemlevel": 74,
+        "stat": [
+          "Local Minimum Added Lightning Damage",
+          "Local Maximum Added Lightning Damage"
+        ],
+        "value": [
+          "8 to 17",
+          "163 to 172"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Weapon Elemental Damage",
+    "mods": [
+      {
+        "name": "Catalysing",
+        "itemlevel": 4,
+        "stat": "Weapon Elemental Damage +%",
+        "value": [
+          "5 to 10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Infusing",
+        "itemlevel": 15,
+        "stat": "Weapon Elemental Damage +%",
+        "value": [
+          "11 to 20"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Empowering",
+        "itemlevel": 30,
+        "stat": "Weapon Elemental Damage +%",
+        "value": [
+          "21 to 30"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Unleashed",
+        "itemlevel": 75,
+        "stat": "Weapon Elemental Damage +%",
+        "value": [
+          "31 to 36"
+        ],
+        "description": ""
+      }
+    ]
+  }
+]

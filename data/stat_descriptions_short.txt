@@ -1,0 +1,10 @@
+description
+	1 base_physical_damage_reduction_rating
+	1
+		# "%1$+d to Armour"
+
+description
+	1 evasion_and_physical_damage_reduction_rating_+%
+	2
+		1|# "%1%%% increased Evasion Rating and Armour"
+		#|-1 "%1%%% reduced Evasion Rating and Armour" negate 1
